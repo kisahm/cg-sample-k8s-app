@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mainpage
+data:
+  index.html: |
+    <html>
+        <body>
+            <h1>Welcome to Allure</h1>
+            <img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">
+        </body>
+    </html>
