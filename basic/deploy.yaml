@@ -20,6 +20,7 @@ spec:
           valueFrom:
             configMapKeyRef:
               name: mainpage
+              key: index.html 
         image: nginx
         name: nginx
         volumeMounts:
