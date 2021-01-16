@@ -16,10 +16,10 @@ spec:
     spec:
       containers:
       - env:
+        name: dummy
         valueFrom:
-            configMapKeyRef:
-              name: dummy
-              key: mainpage
+          configMapKeyRef:
+            name: mainpage
         image: nginx
         name: nginx
         volumeMounts:
