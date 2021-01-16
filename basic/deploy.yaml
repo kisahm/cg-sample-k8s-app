@@ -1,6 +1,8 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
+  annotations:
+    configmap.reloader.stakater.com/reload: mainpage
   labels:
     app: test
   name: test
@@ -15,13 +17,7 @@ spec:
         app: test
     spec:
       containers:
-      - env:
-        - name: dummy
-          valueFrom:
-            configMapKeyRef:
-              name: mainpage
-              key: index.html 
-        image: nginx
+      - image: nginx
         name: nginx
         volumeMounts:
         - mountPath: /usr/share/nginx/html/index.html
