@@ -8,6 +8,6 @@ data:
         <body>
             <h1>Welcome to Spencers</h1>
             <!--<img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">-->
-            <img src="https://github.com/arbhoj/sample-k8s-app/blob/master/basic/Spencers.png">
+            <img src="https://github.com/arbhoj/sample-k8s-app/blob/master/img/Spencers.png">
         </body>
     </html>
