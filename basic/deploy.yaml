@@ -15,7 +15,7 @@ spec:
         app: test
     spec:
       containers:
-      - image: nginx
+      - image: library/nginx:alpine
         name: nginx
         volumeMounts:
         - mountPath: /usr/share/nginx/html/index.html
