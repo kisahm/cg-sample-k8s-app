@@ -12,6 +12,6 @@ spec:
             service:
               name: test
               port:
-                number: 32000
+                number: 80
           path: /index.html
           pathType: ImplementationSpecific
