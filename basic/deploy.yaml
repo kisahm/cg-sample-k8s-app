@@ -6,7 +6,6 @@ metadata:
   labels:
     app: test
   name: test
-  namespace: ${releaseNamespace}
 spec:
   replicas: 4
   selector:
