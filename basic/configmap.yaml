@@ -6,8 +6,7 @@ data:
   index.html: |
     <html>
         <body>
-            <h1>Welcome to Spencers</h1>
-            <!--<img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">-->
-            <img src="https://github.com/arbhoj/sample-k8s-app/raw/master/images/Spencers.png">
+            <h1>Run IT on DKP. The number one indipendent kubernetes platform in the world.</h1>
+            <img src="https://github.com/arbhoj/sample-k8s-app/raw/master/images/D2iq_large.jpeg">
         </body>
     </html>
