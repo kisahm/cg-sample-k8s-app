@@ -4,6 +4,7 @@ metadata:
   labels:
     app: test
   name: test
+  namespace: ${releaseNamespace}
 spec:
   ports:
   - port: 80
