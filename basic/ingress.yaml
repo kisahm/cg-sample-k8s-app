@@ -5,6 +5,8 @@ metadata:
   namespace: default
   annotations:
     kubernetes.io/ingress.class: kommander-traefik
+    traefik.ingress.kubernetes.io/router.middlewares: kommander-stripprefixes@kubernetescrd
+    traefik.ingress.kubernetes.io/router.tls: "true"    
 spec:
   rules:
   - http:
@@ -12,5 +14,5 @@ spec:
       - backend:
           serviceName: test
           servicePort: 80
-        path: /index.html
+        path: /hello
         pathType: ImplementationSpecific
