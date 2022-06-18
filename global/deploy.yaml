@@ -27,4 +27,4 @@ spec:
       volumes:
       - name: mainpage
         configMap:
-          name: mainpage
+          name: globalmainpage
