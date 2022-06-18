@@ -3,4 +3,4 @@ bases:
 resources:
 - configmap.yaml
 patchStrategicMerge:
-- deployment.yaml
+- deploy.yaml
