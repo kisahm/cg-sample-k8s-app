@@ -1,0 +1,6 @@
+bases:
+- ../../global
+resources:
+- configmap.yaml
+patchStrategicMerge:
+- deployment.yaml

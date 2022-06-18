@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   annotations:
-    configmap.reloader.stakater.com/reload: globalmainpage
+    configmap.reloader.stakater.com/reload: "globalmainpage,localmainpage"
   labels:
     app: welcomeglobal
   name: welcomeglobal
@@ -22,9 +22,9 @@ spec:
         name: nginx
         volumeMounts:
         - mountPath: /usr/share/nginx/html/index.html
-          name: mainpage
+          name: globalmainpage
           subPath: index.html
       volumes:
-      - name: mainpage
+      - name: globalmainpage
         configMap:
           name: globalmainpage
