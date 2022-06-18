@@ -2,6 +2,5 @@ bases:
 - ../../global
 resources:
 - configmap.yaml
-- deploy.yaml
 patchStrategicMerge:
 - deploy.yaml
