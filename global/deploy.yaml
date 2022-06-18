@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   annotations:
-    configmap.reloader.stakater.com/reload: mainpage
+    configmap.reloader.stakater.com/reload: globalmainpage
   labels:
     app: welcomeglobal
   name: welcomeglobal
