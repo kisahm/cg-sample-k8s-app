@@ -7,7 +7,7 @@ data:
   index.html: |
     <html>
         <body>
-            <h1>Run IT on DKP. The number one independent kubernetes platform in the world.</h1>
-            <img src="https://github.com/arbhoj/sample-k8s-app/raw/master/images/D2iq_large.jpeg">
+            <h1>!!Welcome to Royal Caribbean!!</h1>
+            <img src="https://media4.giphy.com/media/UuYwihkHeDptzuEkrG/giphy.gif?cid=ecf05e47kx1ct8vf0c6nmlw9ybxsz0j0txahwb80xx722nwy&rid=giphy.gif&ct=g">
         </body>
     </html>
