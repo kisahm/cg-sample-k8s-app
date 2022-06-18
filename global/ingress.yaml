@@ -16,5 +16,5 @@ spec:
             name: welcomeglobal
             port:
               number: 80
-        path: /hello
+        path: /welcomeglobal
         pathType: Prefix
