@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: mainpage
 data:
-  index.html: |
+  ship.html: |
     <html>
         <body>
         <h1>!!Welcome to Harmony!!</h1>
