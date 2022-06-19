@@ -6,9 +6,7 @@ data:
   ship.html: |
     <html>
         <body>
-            <h1>!!!Welcome to Allure!!!</h1>
+            <h1>!!!Welcome to Allure!!!</h1><p><a href="index.html">Back to Main Page</a></p>
             <img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">
-            <h2>Back to Main Page</h2>
-            <p><a href="index.html">Back to Main Page</a></p>
         </body>
     </html>
