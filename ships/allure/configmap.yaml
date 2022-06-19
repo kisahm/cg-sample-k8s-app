@@ -7,7 +7,7 @@ data:
     <html>
         <body>
             <h1>!!!Welcome to Allure!!!</h1>
-            <a href="index.html">Back to Main Page</a>
+            <p><a href="index.html">Back to Main Page</a></p>
             <img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">
         </body>
     </html>
