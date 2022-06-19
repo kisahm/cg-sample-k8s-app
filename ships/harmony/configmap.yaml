@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mainpage
+data:
+  index.html: |
+    <html>
+        <body>
+        <h1>!!Welcome to Harmony!!</h1>
+        <a href="index.html">Back to Main Page</a>
+        <img src="https://cruiseweb.com/blog/wp-content/uploads/2016/11/rci-hm-nightime.jpg" style="width:800px;height:600px;">
+
+        </body>
+    </html>
