@@ -6,7 +6,7 @@ data:
   ship.html: |
     <html>
         <body>
-        <h1>!!Welcome to Harmony!!</h1>
+        <h1>!!Welcome to the ship!!</h1>
         <p><a href="index.html">Back to Main Page</a></p>
         <img src="https://cruiseweb.com/blog/wp-content/uploads/2016/11/rci-hm-nightime.jpg" style="width:800px;height:600px;">
 
