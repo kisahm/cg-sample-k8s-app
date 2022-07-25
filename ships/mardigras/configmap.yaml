@@ -8,7 +8,7 @@ data:
         <body>
         <h1>!!Welcome to the Mardi Gras!!</h1>
         <p><a href="index.html">Back to Main Page</a></p>
-        <img src="https://www.carnival.com/-/media/images/ships/md/mardi-gras/heros/mardi-gras-ship-now-sailing-hero-desktop.jpg width='800'>
+        <img src="https://www.carnival.com/-/media/images/ships/md/mardi-gras/heros/mardi-gras-ship-now-sailing-hero-desktop.jpg" width="800">
 
         </body>
     </html>

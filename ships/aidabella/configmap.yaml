@@ -8,6 +8,6 @@ data:
         <body>
             <h1>!!!Welcome to the AIDAbella!!!</h1>
             <p><a href="index.html">Back to Main Page</a></p>
-            <img src="https://carol.cruise-api.aida.de/vessels/aidabella/jp86sj3azuh2swig-2560px.jpg" width='800'>
+            <img src="https://carol.cruise-api.aida.de/vessels/aidabella/jp86sj3azuh2swig-2560px.jpg" width="800">
         </body>
     </html>
