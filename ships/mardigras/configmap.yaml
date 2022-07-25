@@ -6,9 +6,9 @@ data:
   ship.html: |
     <html>
         <body>
-        <h1>!!Welcome to the harmony!!</h1>
+        <h1>!!Welcome to the Mardi Gras!!</h1>
         <p><a href="index.html">Back to Main Page</a></p>
-        <img src="https://cruiseweb.com/blog/wp-content/uploads/2016/11/rci-hm-nightime.jpg" style="width:800px;height:600px;">
+        <img src="https://www.carnival.com/-/media/images/ships/md/mardi-gras/heros/mardi-gras-ship-now-sailing-hero-desktop.jpg width='800'>
 
         </body>
     </html>

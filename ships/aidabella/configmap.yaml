@@ -6,8 +6,8 @@ data:
   ship.html: |
     <html>
         <body>
-            <h1>!!!Welcome to the Allure!!!</h1>
+            <h1>!!!Welcome to the AIDAbella!!!</h1>
             <p><a href="index.html">Back to Main Page</a></p>
-            <img src="https://pencilshavingsstudio.com/wp-content/uploads/2018/03/allure-of-the-seas-royal-caribbean-82.jpg">
+            <img src="https://carol.cruise-api.aida.de/vessels/aidabella/jp86sj3azuh2swig-2560px.jpg" width='800'>
         </body>
     </html>
